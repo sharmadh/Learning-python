@@ -1,5 +1,0 @@
-*.terraform
-provider.tf
-terraform*
-mykey
-*.ppk
